@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f085c67-c15e-469a-abc5-d639f9d6c152" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project" beforeDir="false" afterPath="$PROJECT_DIR$/django_project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/.idea/Benue.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/.idea/libraries/R_User_Library.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/.idea/misc.xml" beforeDir="false" />
@@ -4315,7 +4317,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Abenew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abenew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Abenew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abenew" type="462c0819:PsiDirectoryNode" />
+              <item name="django_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
